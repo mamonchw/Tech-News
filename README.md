@@ -1,8 +1,6 @@
 
 
-# Tech-News
 
-Tech-News is a mobile application built with Flutter on Android Studio, designed to keep users updated with the latest technology news. It leverages the News API to fetch real-time technology-related news articles and displays them in an easy-to-read format.
 
 ## Features
 
